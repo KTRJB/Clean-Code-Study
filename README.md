@@ -1,4 +1,4 @@
-#  📚 꿍톤루주브 Clean-Code-Study 스터디 
+#  📚 꿍톤루주브 Clean-Code-Study 
 ## 🗓 시작 날짜
 #### 2024년 03월 07일 (목) ~ ing
 
